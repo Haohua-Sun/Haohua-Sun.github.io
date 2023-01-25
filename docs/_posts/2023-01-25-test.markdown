@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "test: welcome to my homemage!"
+date:   2023-01-25 14:29:02 +0800
+categories: jekyll update
+---
+this is a test page
