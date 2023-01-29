@@ -1,11 +1,11 @@
 ---
-layout: page
-title: 中文
-permalink: /chinese/
+#layout: page
+#title: 中文
+#permalink: /chinese/
 ---
 
-我是孙浩华，是一名二年级物理学本科生，就读于[山东大学青岛校区](https://www.qdxq.sdu.edu.cn)的[前沿交叉科学青岛研究院](https://frontier.qd.sdu.edu.cn)，预计于2025年6月毕业获得物理学学士学位。
+我是孙浩华，是一名二年级物理学本科生，就读于[山东大学青岛校区](https://www.qdxq.sdu.edu.cn)[前沿交叉科学青岛研究院](https://frontier.qd.sdu.edu.cn)，预计于2025年6月毕业获得物理学学士学位。
 
-我的兴趣主要集中于几何学与物理学，本科毕业后希望在数学物理领域继续学习研究。
+我的兴趣主要集中在几何学与物理学，本科毕业后希望在数学物理领域继续学习研究。
 
 更多信息详见我的简历（当前尚未上传）。
