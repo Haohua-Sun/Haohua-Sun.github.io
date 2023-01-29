@@ -1,4 +1,5 @@
 ---
+layout: seminar
 permalink: /seminar/quantum/
 ---
 
