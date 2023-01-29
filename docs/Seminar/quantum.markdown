@@ -1,4 +1,5 @@
 ---
+title: Quantum
 permalink: /seminar/quantum/
 ---
 
