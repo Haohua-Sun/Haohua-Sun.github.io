@@ -3,4 +3,6 @@ title: Quantum
 permalink: /seminar/quantum/
 ---
 
-test
+**Quantum (2023 Spring)**
+
+preparing now, we're happy to recive any advice.
