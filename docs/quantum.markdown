@@ -1,5 +1,5 @@
 ---
-permalink: /seminar/quantum
+permalink: /seminar/quantum/
 ---
 
 test
