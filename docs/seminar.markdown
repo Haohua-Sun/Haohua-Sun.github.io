@@ -12,5 +12,5 @@ This is a seminar page, one can find useful stuff about our seminars here.
 **[Quantum](https://haohua-sun.github.io/seminar/quantum/)**
 =======
 
-This is a seminar which may "have a taste" in Quantum Mechanics and little Quantum Field theory. We won't expect it to be very hardcore.
+This is a seminar which may "have a taste" in Quantum Mechanics and little Quantum Field Theory. We won't expect it to be very hardcore.
 
