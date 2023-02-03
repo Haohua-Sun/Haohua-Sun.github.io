@@ -4,6 +4,7 @@ permalink: /seminar/gr/
 
 
 **General Relativity (2023 Spring)**
+QQ Group: 759820058
 
 
 preparing now, we're happy to recive any advice.
