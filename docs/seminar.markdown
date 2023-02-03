@@ -21,10 +21,10 @@ Have something to ask? Just email to me.
 =======
 
 This is a seminar which may "have a taste" in Quantum Mechanics and little Quantum Field Theory. We won't expect it to be very hardcore.
-QQ Group: 760567655
+QQ Group: 760567655 or click [here](https://jq.qq.com/?_wv=1027&k=pdL4Q0uj)
 
 **[General Relativity](https://haohua-sun.github.io/seminar/gr/)**
 =======
 
 This is a seminar about basic stuff of Differential Geometry and General Relativity.
-QQ Group: 759820058
+QQ Group: 759820058 or click [here](https://jq.qq.com/?_wv=1027&k=wQQ8iExA)
