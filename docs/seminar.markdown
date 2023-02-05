@@ -13,9 +13,12 @@ This is a seminar page, one can find useful stuff about our seminars here.
 
 And this is also not a superman group only for those learnt lots things already, the following subjects at this term just needs you to know about **Calculus**, **Linear Algebra** and **Classical Mechanics**. The topics may seem much hard, but remember it's just a topic and we are just communicating about the topic, there is no pressure from exam or whatever. By the way, difficulty should not be the reason to escape, remember *"而世之奇伟、瑰怪、非常之观，常在于险远，而人之所罕至焉。"*?
 
-If you want to join us, like what I said before, be sure you are interested in mathematical/theoretical physics, if not, you may not be happy in the process, then why to learn the fucking things? And you should have the ability to read English.(What is the criterion? If you are able to read what I wrote on this website, then you are OK.)
+So what will we do after all? For this term (2023 Spring), the two topics, Quantum Theory and General Relativity, are both general, they are basic things in morden physics. Thus we may make it like a reading course: we choose a book or note as the main material to read together, and we talk over the confused or interesting things together once in a while. And you may face some small difficulties while reading, just ask in our QQ group, no matter what question. Your gains are form two aspects: read the material and talk with others.
 
-Have something to ask? Just email to me.
+If you want to join us, make sure that:
+(1) you are really **interested** in the topic, otherwise you may not be happy in the process, then why to learn the ~~fucking~~ things? 
+(2) you have the ability to read English. What is the criterion? If you are able to read what I wrote on this website, then you are OK. Unlike living abroad, the English required for reading a mathematics/physics book is much simple, most people just backed off before taking the first step.
+(3) you have enough spare time, don't let your required courses affected by our seminars, that's not what we want to see.
 
 **[Quantum](https://haohua-sun.github.io/seminar/quantum/)**
 =======
