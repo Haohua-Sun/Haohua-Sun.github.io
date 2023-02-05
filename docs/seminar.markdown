@@ -21,12 +21,9 @@ The topics may seem much hard, but remember it's just a topic and we are just le
 
 So what will we do after all? For this term (2023 Spring), the two topics, Quantum Theory and General Relativity, are both general, they are basic things in morden physics. Thus we may make it like a reading course: we choose a book or note as the main material to read together, and talk over the confused or interesting things together once in a while. You may face some small difficulties while reading, just ask in our QQ group, no matter what question. Your gains are form two aspects: read the material and talk with others.
 
-If you want to join us, make sure that:
-
-(1) you are really **interested** in the topic, otherwise you may not be happy in the process, then why to learn the ~~fucking~~ things? 
-
-(2) you have the ability to read English. What is the criterion? If you are able to read what I wrote on this website, then you are OK. Unlike living abroad, the English required for reading a mathematics/physics book is much simple, most people just backed off before taking the first step.
-
+If you want to join us, make sure that:  
+(1) you are really **interested** in the topic, otherwise you may not be happy in the process, then why to learn the ~~fucking~~ things?  
+(2) you have the ability to read English. What is the criterion? If you are able to read what I wrote on this website, then you are OK. Unlike living abroad, the English required for reading a mathematics/physics book is much simple, most people just backed off before taking the first step.  
 (3) you have enough spare time, don't let your required courses affected by our seminars, that's not what we want to see.
 
 **[Quantum](https://haohua-sun.github.io/seminar/quantum/)**
