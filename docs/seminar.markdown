@@ -19,7 +19,7 @@ And this is also not a superman group only for those learnt lots things already,
 
 The topics may seem much hard, but remember it's just a topic and we are just learning some basic stuff, and there is no pressure from exam or whatever. By the way, difficulty should not be the reason to escape, remember *"而世之奇伟、瑰怪、非常之观，常在于险远，而人之所罕至焉。"*?
 
-So what will we do after all? For this term (2023 Spring), the two topics, Quantum Theory and General Relativity, are both general, they are basic things in morden physics. Thus we may make it like a reading course: we choose a book or note as the main material to read together, and we talk over the confused or interesting things together once in a while. And you may face some small difficulties while reading, just ask in our QQ group, no matter what question. Your gains are form two aspects: read the material and talk with others.
+So what will we do after all? For this term (2023 Spring), the two topics, Quantum Theory and General Relativity, are both general, they are basic things in morden physics. Thus we may make it like a reading course: we choose a book or note as the main material to read together, and talk over the confused or interesting things together once in a while. You may face some small difficulties while reading, just ask in our QQ group, no matter what question. Your gains are form two aspects: read the material and talk with others.
 
 If you want to join us, make sure that:
 
