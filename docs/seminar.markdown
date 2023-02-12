@@ -15,7 +15,7 @@ Note that it's neither a tutoring class to help you get better grades (if this i
 
 And this is also not a superman group only for those learnt lots things already, the following subjects at this term just needs you to know about **Calculus**, **Linear Algebra** and **Classical Mechanics**. The topics may seem much hard, but remember it's just a topic and we are just learning some basic stuff, and there is no pressure from exam or whatever. By the way, difficulty should not be the reason to escape, remember *"而世之奇伟、瑰怪、非常之观，常在于险远，而人之所罕至焉。"*?
 
-**So what will we do after all?** For this term (2023 Spring), the two topics, Quantum Theory and General Relativity, are both fundamental to modern physics. Thus we may make it like a reading course: we choose a book or note as the main material to read together, and talk over the confused or interesting things together once in a while.
+**So what will we do after all?** For this semester (2023 Spring), the two topics, Quantum Theory and General Relativity, are both fundamental to modern physics. Thus we may make it like a reading course: we choose a book or note as the main material to read together, and talk over the confused or interesting things together once in a while.
 
 If you want to join us, make sure that:  
 (1) you are really **interested** in the topic, otherwise you may not be happy in the process, then why to learn the ~~fucking~~ things?  
