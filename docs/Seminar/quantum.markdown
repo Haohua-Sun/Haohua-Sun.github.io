@@ -14,6 +14,8 @@ preparing now, we're happy to recive any advice.
 
 David Tong, [Lectures on Quantum Mechanics](https://www.damtp.cam.ac.uk/user/tong/quantum.html)
 
+Griffiths, Introduction to Quantum Mechanics
+
 J.J.Sakurai, Modern Quantum Mechanics
 
 **Further Reading**:
