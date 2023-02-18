@@ -15,3 +15,9 @@ preparing now, we're happy to recive any advice.
 David Tong, [Lectures on Quantum Mechanics](https://www.damtp.cam.ac.uk/user/tong/quantum.html)
 
 J.J.Sakurai, Modern Quantum Mechanics
+
+**Further Reading**:
+
+David Skinner, [Principles of Quantum Mechanics](https://www.damtp.cam.ac.uk/user/dbs26/PQM.html)
+
+Weinberg, Lectures on Quantum Mechanics
