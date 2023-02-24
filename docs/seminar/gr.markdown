@@ -7,7 +7,6 @@ permalink: /seminar/gr/
 
 QQ Group: 759820058 or click [here](https://jq.qq.com/?_wv=1027&k=wQQ8iExA)
 
-preparing now, we're happy to recive any advice.
 
 **Reading List**: 
 
